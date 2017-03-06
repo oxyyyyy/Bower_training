@@ -1,0 +1,14 @@
+body {
+  padding-top: 100px; }
+
+#my_flex_cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap; }
+  #my_flex_cont .my_card {
+    margin: 15px;
+    padding: 15px;
+    border: 1px solid #444; }
+
+/*# sourceMappingURL=main.css.map */
