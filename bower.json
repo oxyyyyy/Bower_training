@@ -1,0 +1,20 @@
+{
+  "name": "Bower_training",
+  "homepage": "https://github.com/oxyyyyy/Bower_training",
+  "authors": [
+    "oxyyyyy <elektronikaion@gmail.com>"
+  ],
+  "description": "Some desc",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
